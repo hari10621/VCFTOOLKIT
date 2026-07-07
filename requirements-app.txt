@@ -1,0 +1,4 @@
+openpyxl
+pyinstaller
+tkinterdnd2
+PySide6
